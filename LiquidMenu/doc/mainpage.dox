@@ -1,0 +1,58 @@
+/**
+@mainpage LiquidMenu
+![logo](https://raw.githubusercontent.com/VasilKalchev/LiquidMenu/master/doc/logo.png)
+_Menu creation Arduino library for LCDs, extends [LiquidCrystal][lc]._
+
+[Class documentation](https://vasilkalchev.github.io/LiquidMenu/doc/html/annotated.html)
+
+[Examples](https://vasilkalchev.github.io/LiquidMenu/doc/html/examples.html)
+
+[Git page](https://github.com/VasilKalchev/LiquidMenu)
+
+[Web page](https://vasilkalchev.github.io/LiquidMenu/)
+
+
+[lc]: https://github.com/arduino-libraries/LiquidCrystal
+*/
+
+/**
+@example hello_menu.ino
+
+Simple example demonstrating the use of two screens printing
+text and variables. The screens change automatically every
+few seconds.
+ */
+
+/**
+@example serial_menu.ino
+
+Demonstrates the usage of four screens which are controlled
+through serial.
+ */
+
+/**
+@example buttons_menu.ino
+
+Demonstrates the use of buttons to cycle between screens
+and dynamically changing the text printed on the display.
+ */
+
+/**
+@example functions_menu.ino
+
+Demonstrates how a function can be attached to a particular
+line and then called through a button press.
+ */
+
+/**
+@example focus_menu.ino
+
+Demonstrates how to change the position and symbol of the
+focus indicator.
+ */
+
+/**
+@example system_menu.ino
+
+Demonstrates how to implement a menu system.
+ */
